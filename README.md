@@ -5,9 +5,9 @@
 - 📫 Контакты со мной:
   - Skype: join.skype.com/invite/bBxNHGRzzXB5
   - Почта: artemof.ru@yandex.ru
-  - ВК: vk.com/artemof_ru
-  - Telegram: t.me/artemof_ru
-  - Сайт - artemof.ru
+  - ВК: https://vk.com/artemof_ru
+  - Telegram: https://t.me/artemof_ru
+  - Сайт - https://artemof.ru
 
 <!---
 artemofru/artemofru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
