@@ -4,9 +4,9 @@
 - 💞️ Опыт верстки более 5 лет
 - 📫 Контакты со мной:
   - Skype: join.skype.com/invite/bBxNHGRzzXB5
-  - Почта: ava-web.site @yandex.ru
-  - ВК: vk.com/vk_avawebsite
-  - Telegram: t.me/avawebsite
+  - Почта: artemof.ru@yandex.ru
+  - ВК: vk.com/artemof_ru
+  - Telegram: t.me/artemof_ru
   - Сайт - artemof.ru
 
 <!---
